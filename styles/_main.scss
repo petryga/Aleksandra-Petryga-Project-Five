@@ -16,8 +16,7 @@ header {
         position: fixed;
         overflow-y: scroll;
         overflow-x: hidden;
-        position: fixed;
-        width: 25%;
+        max-width: 350px;
         padding: 0 3rem;
         margin-bottom: 3rem;
     h1 {
@@ -53,7 +52,7 @@ header {
         font-size: 2rem;
     }
     textarea {
-        width: 100%;
+        max-width: 100%;
         min-height: 140px;
         border: 1px solid black;
         margin-bottom: 1rem;
