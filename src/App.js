@@ -167,6 +167,9 @@ class App extends Component {
         </div>
         <footer className="wrapper">
           <p>Aleksandra Petryga @ Juno College</p>
+          {/* Images courtesy of Unsplash.com api, 
+          background image - https://pixabay.com/illustrations/textile-fabric-leaf-plant-palm-2310247/,
+          favicon - https://favicon.io/emoji-favicons/airplane/ */}
         </footer>
       </div>
     );
