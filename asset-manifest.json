@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Aleksandra-Petryga-Project-Five/static/css/main.c61c4f4a.chunk.css",
-    "main.js": "/Aleksandra-Petryga-Project-Five/static/js/main.bc40d37a.chunk.js",
-    "main.js.map": "/Aleksandra-Petryga-Project-Five/static/js/main.bc40d37a.chunk.js.map",
+    "main.css": "/Aleksandra-Petryga-Project-Five/static/css/main.91c66136.chunk.css",
+    "main.js": "/Aleksandra-Petryga-Project-Five/static/js/main.39188261.chunk.js",
+    "main.js.map": "/Aleksandra-Petryga-Project-Five/static/js/main.39188261.chunk.js.map",
     "runtime-main.js": "/Aleksandra-Petryga-Project-Five/static/js/runtime-main.bc67f884.js",
     "runtime-main.js.map": "/Aleksandra-Petryga-Project-Five/static/js/runtime-main.bc67f884.js.map",
-    "static/js/2.0646418b.chunk.js": "/Aleksandra-Petryga-Project-Five/static/js/2.0646418b.chunk.js",
-    "static/js/2.0646418b.chunk.js.map": "/Aleksandra-Petryga-Project-Five/static/js/2.0646418b.chunk.js.map",
+    "static/js/2.108e6a14.chunk.js": "/Aleksandra-Petryga-Project-Five/static/js/2.108e6a14.chunk.js",
+    "static/js/2.108e6a14.chunk.js.map": "/Aleksandra-Petryga-Project-Five/static/js/2.108e6a14.chunk.js.map",
     "static/js/3.5e62a4d4.chunk.js": "/Aleksandra-Petryga-Project-Five/static/js/3.5e62a4d4.chunk.js",
     "static/js/3.5e62a4d4.chunk.js.map": "/Aleksandra-Petryga-Project-Five/static/js/3.5e62a4d4.chunk.js.map",
     "index.html": "/Aleksandra-Petryga-Project-Five/index.html",
-    "static/css/main.c61c4f4a.chunk.css.map": "/Aleksandra-Petryga-Project-Five/static/css/main.c61c4f4a.chunk.css.map",
-    "static/js/2.0646418b.chunk.js.LICENSE.txt": "/Aleksandra-Petryga-Project-Five/static/js/2.0646418b.chunk.js.LICENSE.txt",
+    "static/css/main.91c66136.chunk.css.map": "/Aleksandra-Petryga-Project-Five/static/css/main.91c66136.chunk.css.map",
+    "static/js/2.108e6a14.chunk.js.LICENSE.txt": "/Aleksandra-Petryga-Project-Five/static/js/2.108e6a14.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/Aleksandra-Petryga-Project-Five/static/media/textile-2310247_1280.f08ca668.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bc67f884.js",
-    "static/js/2.0646418b.chunk.js",
-    "static/css/main.c61c4f4a.chunk.css",
-    "static/js/main.bc40d37a.chunk.js"
+    "static/js/2.108e6a14.chunk.js",
+    "static/css/main.91c66136.chunk.css",
+    "static/js/main.39188261.chunk.js"
   ]
 }
