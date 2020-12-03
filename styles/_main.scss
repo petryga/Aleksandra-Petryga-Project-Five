@@ -1,0 +1,136 @@
+body {
+    background-image: url(../src/assets/textile-2310247_1280.png);
+    background-attachment: fixed;
+}
+.main-container {
+    background-color: white;
+}
+
+header {
+    width: 30%;
+    align-items: center;
+    height: 100vh;
+    .header-text {
+        top: 5rem;
+        bottom: 0;
+        position: fixed;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        position: fixed;
+        width: 25%;
+        padding: 0 3rem;
+        margin-bottom: 3rem;
+    h1 {
+        font-size: 5rem;
+        margin: 0 auto;
+        color: rgb(23, 46, 23);
+    }
+    p:not(.note-text) {
+        font-size: 2rem;
+        margin-top: 4rem;
+    }
+    h3 {
+        font-size: 2.3rem;
+        margin-bottom: 1rem;
+    }
+    .note-text{
+        font-size: 2rem;
+    }
+
+    .remove-btn {
+        background-color: transparent;
+        font-size: 2rem;
+        color: black;
+        padding: 0.5rem;
+        margin-bottom: 1rem;
+    }
+    .remove-btn:hover,
+    .remove-btn:focus {
+        color: red;
+   
+    }
+    label {
+        font-size: 2rem;
+    }
+    textarea {
+        width: 100%;
+        min-height: 140px;
+        border: 1px solid black;
+        margin-bottom: 1rem;
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 2rem;
+        padding: 1.5rem;
+    }
+    textarea.error {
+        border: 1px solid red
+    }
+    }
+    h1,
+    p:not(.note-text),
+    form{
+    margin-bottom: 3rem;
+    }
+}
+
+button:not(.dropdown-btn) {
+    margin: .5rem auto;
+}
+
+main {
+width: 70%;
+padding: 0 2rem;
+    form {
+        margin-bottom: 5rem;
+    label {
+        font-weight: 700;
+        color: rgb(23, 46, 23);
+        margin-bottom: 3rem;
+        margin-top: 5rem;
+    }
+    select {
+        width: 350px;
+        height: 45px;
+        margin-right: 2rem;
+        font-size: 2rem;
+        font-family: "Josefin Sans", sans-serif;
+        padding-left: 1rem;
+    }
+    }
+    h2 {
+        color: rgb(23, 46, 23);
+        margin-bottom: 3rem;
+    }
+    img {
+        margin-bottom: 1rem;
+    }
+    p {
+        margin-bottom: 2rem;
+    }
+}
+
+.dropdown {
+    justify-content: center;
+}
+
+button {
+    font-family: "Josefin Sans", sans-serif;
+    background-color: black;
+    font-size: 1.5rem;
+    color: white;
+    padding: 0.8rem 1.2rem;
+    border: none;
+}
+
+button:hover,
+button:focus {
+    background-color: yellow;
+    color: black;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+footer{
+    font-size: 1.5rem;
+    text-transform: lowercase;
+    background-color: white;
+}
