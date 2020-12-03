@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Aleksandra-Petryga-Project-Five/static/css/main.91c66136.chunk.css",
-    "main.js": "/Aleksandra-Petryga-Project-Five/static/js/main.39188261.chunk.js",
-    "main.js.map": "/Aleksandra-Petryga-Project-Five/static/js/main.39188261.chunk.js.map",
+    "main.css": "/Aleksandra-Petryga-Project-Five/static/css/main.7332fae3.chunk.css",
+    "main.js": "/Aleksandra-Petryga-Project-Five/static/js/main.1692c4c2.chunk.js",
+    "main.js.map": "/Aleksandra-Petryga-Project-Five/static/js/main.1692c4c2.chunk.js.map",
     "runtime-main.js": "/Aleksandra-Petryga-Project-Five/static/js/runtime-main.bc67f884.js",
     "runtime-main.js.map": "/Aleksandra-Petryga-Project-Five/static/js/runtime-main.bc67f884.js.map",
     "static/js/2.108e6a14.chunk.js": "/Aleksandra-Petryga-Project-Five/static/js/2.108e6a14.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.5e62a4d4.chunk.js": "/Aleksandra-Petryga-Project-Five/static/js/3.5e62a4d4.chunk.js",
     "static/js/3.5e62a4d4.chunk.js.map": "/Aleksandra-Petryga-Project-Five/static/js/3.5e62a4d4.chunk.js.map",
     "index.html": "/Aleksandra-Petryga-Project-Five/index.html",
-    "static/css/main.91c66136.chunk.css.map": "/Aleksandra-Petryga-Project-Five/static/css/main.91c66136.chunk.css.map",
+    "static/css/main.7332fae3.chunk.css.map": "/Aleksandra-Petryga-Project-Five/static/css/main.7332fae3.chunk.css.map",
     "static/js/2.108e6a14.chunk.js.LICENSE.txt": "/Aleksandra-Petryga-Project-Five/static/js/2.108e6a14.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/Aleksandra-Petryga-Project-Five/static/media/textile-2310247_1280.f08ca668.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bc67f884.js",
     "static/js/2.108e6a14.chunk.js",
-    "static/css/main.91c66136.chunk.css",
-    "static/js/main.39188261.chunk.js"
+    "static/css/main.7332fae3.chunk.css",
+    "static/js/main.1692c4c2.chunk.js"
   ]
 }
