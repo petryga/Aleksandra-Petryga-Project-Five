@@ -4,7 +4,7 @@ class SearchBar extends Component {
     constructor() {
         super();
         this.state = {
-            userSelection: 'way',
+            userSelection: '',
         };
     }
 
@@ -29,7 +29,7 @@ class SearchBar extends Component {
                         id="images-dropdown"
                         onChange={this.handleInputChange}
                         value={this.state.userSelection}>
-                        <option value="way" disabled>Where to?</option>
+                        <option value="" disabled>Where to?</option>
                         <option value="travel">I hate Covid, take me anywhere</option>
                         <option value="vancouver">Vancouver</option>
                         <option value="new york">New York</option>

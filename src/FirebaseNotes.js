@@ -7,7 +7,7 @@ library.add(faTimes);
 
 
 const Notes = ({ noteText, id, index }) => {
-    const converter = require('number-to-words'); 
+    const converter = require('number-to-words');
     const [hovered, setHovered] = useState(false);
     const toggleHover = () => setHovered(!hovered);
 
@@ -16,6 +16,7 @@ const Notes = ({ noteText, id, index }) => {
             <h3>note {converter.toWords(index)}</h3>
             <p className="note-text">{noteText}</p>
             <button
+                aria-label="remove button"
                 className="remove-btn"
                 onMouseEnter={toggleHover}
                 onMouseLeave={toggleHover}

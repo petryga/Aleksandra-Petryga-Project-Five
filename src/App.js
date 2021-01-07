@@ -55,6 +55,7 @@ class App extends Component {
   }
 
   fetchImages = (val) => {
+    if (val) {
     axios({
       url: `https://api.unsplash.com/search/photos`,
       method: 'get',
@@ -74,8 +75,11 @@ class App extends Component {
       })
       .catch(() => {
         alert('no images ;(');
-      })
+      }) 
+  } else {
+    alert('Please make a selection')
   }
+}
 
   handleAdd = (e) => {
     e.preventDefault();
